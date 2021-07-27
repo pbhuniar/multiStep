@@ -1,0 +1,6 @@
+export const userAction = {
+    USER_REGISTRATION : "USER_REGISTRATION",
+    USER_ADDRESS : "USER_ADDRESS",
+    USER_LOGIN : "USER_LOGIN",
+    USER_LOGOUT : "USER_LOGOUT"
+}
